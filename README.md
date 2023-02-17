@@ -12,7 +12,7 @@
 &nbsp; <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="44" height="44" style="max-width: 100%;"> </a>
 &nbsp; <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="44" height="44" style="max-width: 100%;"> </a></p>
 
-### ✍️ Random Dev Quote
+### ✍️ Citação aleatória do desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

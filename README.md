@@ -3,7 +3,7 @@
 
 
 ## 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mariana Ramos Leite Arêa Leão) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ramos-leite-ar%C3%AAa-le%C3%A3o-72321623a/) 
 
 # 💻 Tecnologias:
 <p dir="auto">&nbsp; <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>

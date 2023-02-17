@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌱 Atualmente estudo desenvolvimento Web na TRYBE.<br>
+🌱 Atualmente estou em processo de transição de carreira, me encontrando no mundo fantástico que é o da programação, estudando Desenvolvimento Web na TRYBE <a href="https://www.betrybe.com/" rel="nofollow"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="18" width="18" style="max-width: 100%;">.</a><br>
 
 
 ## 🌐 Conecte-se comigo:
